@@ -1,0 +1,29 @@
+.selectorDialog {width:600px; font-size:12px;padding:.2em;zoom: 1;background-color:#CCC;}
+.selectorDialog .selecting{width:594px;height:26px;padding:2px; border:1px solid #C3C3C3;background-color:#FFF;}
+.selectorDialog .selecting .button{float:right;border:1px solid #C3C3C3;padding:5px 5px 0 5px;margin:0 5px;height:20px;width:30px;text-align:center;}
+.industryDialog-content {background-color:#FFF;border:1px solid #C3C3C3;overflow-x:hidden;clear:both;}
+.industryDialog-content ul {list-style:none;padding: .5em .2em 0;margin:0;}
+.industryDialog-content li {display:block;float:left;line-height:20px;overflow:hidden;width:290px;}
+.industryDialog-content li a {float:left;text-decoration:none; padding:0 1em;}
+
+.natureDialog-content {background-color:#FFF;border:1px solid #C3C3C3;overflow-x:hidden;clear:both; }
+.natureDialog-content ul {list-style:none;padding: .5em .2em 0;margin:0;}
+.natureDialog-content li {display:block;float:left;line-height:20px;overflow:hidden;width:180px;}
+.natureDialog-content li a {float:left;text-decoration:none; padding:0 1em;}
+
+.ProvinceDialog-content {background-color:#FFF;border:1px solid #C3C3C3;overflow-x:hidden;clear:both; }
+.ProvinceDialog-content ul {list-style:none;padding: .5em .2em 0;margin:0;}
+.ProvinceDialog-content li {display:block;float:left;line-height:20px;overflow:hidden;width:110px;}
+.ProvinceDialog-content li a {float:left;text-decoration:none; padding:0 1em;}
+
+.ProvinceDialog-content .button{border:1px solid #C3C3C3;padding:3px;height:22px;width:30px;}
+
+.CategoryDialog-content {background-color:#FFF;border:1px solid #C3C3C3;overflow-x:hidden;clear:both;}
+.CategoryDialog-content ul {list-style:none;padding: .5em .2em 0;margin:0;}
+.CategoryDialog-content li {display:block;float:left;line-height:20px;overflow:hidden;width:190px;}
+.CategoryDialog-content li a {float:left;text-decoration:none; padding:0 .5em;}
+
+.PoliticalDialog-content {background-color:#FFF;border:1px solid #C3C3C3;overflow-x:hidden;clear:both;}
+.PoliticalDialog-content ul {list-style:none;padding: .5em .2em 0;margin:0;}
+.PoliticalDialog-content li {display:block;float:left;line-height:20px;overflow:hidden;width:190px;}
+.PoliticalDialog-content li a {float:left;text-decoration:none; padding:0 .5em;}

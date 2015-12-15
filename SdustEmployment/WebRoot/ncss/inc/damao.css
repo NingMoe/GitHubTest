@@ -1,0 +1,29 @@
+body{font-size: 12px; font-family:"Verdana", "Arial", "宋体"; }
+
+A:hover {COLOR: #FF9933; TEXT-DECORATION: none}
+
+.black {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.white_damao {
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.headword {
+	font-size: 13px;
+	color: #A90A0A;
+	text-decoration: none;
+	font-weight: bold;
+}
+.red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #B50601;
+	text-decoration: none;
+}
+.imgClass {
+	BORDER-RIGHT: #000 0px solid; BORDER-TOP: #000 0px solid; BORDER-LEFT: #000 0px solid; BORDER-BOTTOM: #000 0px solid
+}
